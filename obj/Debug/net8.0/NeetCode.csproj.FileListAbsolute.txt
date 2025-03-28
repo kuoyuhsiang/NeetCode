@@ -1,0 +1,5 @@
+C:\Users\shawn_kuo\Desktop\NeetCode\obj\Debug\net8.0\NeetCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawn_kuo\Desktop\NeetCode\obj\Debug\net8.0\NeetCode.AssemblyInfoInputs.cache
+C:\Users\shawn_kuo\Desktop\NeetCode\obj\Debug\net8.0\NeetCode.AssemblyInfo.cs
+C:\Users\shawn_kuo\Desktop\NeetCode\obj\Debug\net8.0\NeetCode.csproj.CoreCompileInputs.cache
+C:\Users\shawn_kuo\Desktop\NeetCode\obj\Debug\net8.0\NeetCode.sourcelink.json
