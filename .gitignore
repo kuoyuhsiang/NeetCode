@@ -1,0 +1,24 @@
+# 編譯產物
+bin/
+obj/
+
+# 用來產生組件的暫存資料
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# 調試與編譯中繼檔
+*.log
+*.pdb
+*.cache
+*.db
+
+# NuGet
+project.lock.json
+project.fragment.lock.json
+artifacts/
